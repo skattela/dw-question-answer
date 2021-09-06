@@ -24,4 +24,4 @@ This is a developer's portal for DW Question & Answer and should _not_ be used f
 Anyone is welcome to contribute to DW Question & Answer. There are various ways you can contribute:
 
 1. Raise an [Issue](https://github.com/designwall/dw-question-answer/issues) on GitHub
-2. Send us a Pull Request with your bug fixes and/or new features
+2. Send us a Pull Request with your bug fixes and/or new features 
